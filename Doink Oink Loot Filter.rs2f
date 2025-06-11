@@ -1,6 +1,7 @@
-meta {
-name = "Default Loot Filter";
-    description = "Reference implementation of a loot filter, covering all major rares/uniques.";
+meta 
+{
+    name = "Doink Oink Loot Filter"
+    description = "Doink Oink's Loot Filter"
 }
 
 // var: Loot sounds
