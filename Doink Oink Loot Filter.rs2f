@@ -1,6 +1,2 @@
-meta 
-{
-    name = "Doink Oink Loot Filter"
-    description = "Doink Oink's Loot Filter"
-}
+meta { name = "Joe's filter"; description = "Offers an original color scheme with extensive support for category-based styling/filtering."; }
 
